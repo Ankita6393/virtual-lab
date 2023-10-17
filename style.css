@@ -1,0 +1,38 @@
+.navbar {
+    background-color: #dbe1e7;
+    border-bottom: 15px solid #d1e61180; 
+  
+}
+#nav2{
+    margin-bottom: 2%;
+}
+h1{
+    margin-left: 50px;
+    
+}
+.col {
+    height: 500px;
+    border: 2px solid #1511e6;
+    border-radius: 20px;
+    margin-left: 10px;
+    margin-top: 50px;
+ }
+#container{
+display:flex;
+flex-direction: row;
+justify-content:center;
+}
+.para{
+border:2px solid red;
+height:400px;
+width:300px;
+margin:10px;
+border-radius:15px;
+padding-left:10px;
+}
+.h{
+border-bottom:2px solid grey;
+margin:5px;
+align:center;
+text-align:center;
+}
